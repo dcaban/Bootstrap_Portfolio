@@ -1,7 +1,12 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;. 
+}
 #p_pic {
     transform: rotate(90deg);
-    width: 300px;
-    padding: 5%;
+    width:300px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+   
 }
 
 #main_content {
@@ -32,6 +37,7 @@
     margin: 0 auto;
     height: 1.5px;
     width: 90%;
+    margin-bottom: 15px;
 }
 
 #grey_div2{
@@ -57,7 +63,13 @@ a{
 #name{
     background-color: #4aaaa5;
     color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
 
+}
+h1,h2{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 #name_con{
@@ -78,6 +90,57 @@ a{
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 12px;
     margin-top: 75px;
+    margin-bottom: 0px;
 
 
 }
+
+._email{
+	height: 25px;
+}
+#message{
+	height: 100px;
+}
+
+#sub{
+	background-color: #4aaaa5;
+	border: none;
+	height: 35px;
+	width: 100px;
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+textarea:focus, input:focus {
+	color: #DDD;
+}
+
+input, select, textarea{
+	width: 100%;
+	color: #DDD;
+}
+
+textarea{
+	height: 200px;
+	margin-bottom: 20px;
+	border-color: #DDD;
+}
+
+
+
+
+#oregon{
+	
+	color: white;
+	background-color: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding:22px;
+    width:280px;
+    position:relative;
+    bottom: 80px;
+	
+}
+
+
+
