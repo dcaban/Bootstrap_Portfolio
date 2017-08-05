@@ -23,4 +23,40 @@
     border: 2px solid #DDD;
     margin: auto;
     padding: 60px;
+
 }
+
+#grey_div{
+    background-color: pink;
+    margin: 0 auto;
+    height: 1.5px;
+    width: 80%;
+}
+
+#grey_div2{
+    background-color: #999999;
+    margin-bottom: 20px;
+    height: 1.5px;
+    width: 100%;
+    margin-top: -22px;
+}
+
+a{
+    color: #666666;
+}
+
+#name{
+    background-color: #4aaaa5;
+    color: white;
+
+}
+
+#name_con{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#blank{
+    background-color: transparent;
+}
+
