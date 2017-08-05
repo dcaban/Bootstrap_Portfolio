@@ -1,4 +1,8 @@
+
 body {
+    background-image: url("../images/whirlpool.png");
+	background-color: #cccccc;
+	color: #666666;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;. 
 }
 #p_pic {
@@ -91,6 +95,7 @@ h1,h2{
 	font-size: 12px;
     margin-top: 75px;
     margin-bottom: 0px;
+    padding-top: 33px;
 
 
 }
