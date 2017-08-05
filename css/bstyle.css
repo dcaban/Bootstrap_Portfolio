@@ -16,6 +16,7 @@
     border: 2px solid #DDD;
     margin: auto;
     padding: 60px;
+    margin-bottom: 10px;
 }
 
 #social{
@@ -27,10 +28,10 @@
 }
 
 #grey_div{
-    background-color: pink;
+    background-color: grey;
     margin: 0 auto;
     height: 1.5px;
-    width: 80%;
+    width: 90%;
 }
 
 #grey_div2{
@@ -39,6 +40,14 @@
     height: 1.5px;
     width: 100%;
     margin-top: -22px;
+}
+
+#small_grey{
+     background-color: grey;
+    margin: 0 auto;
+    height: 1.5px;
+    width: 90%;
+    margin-bottom: 10px;
 }
 
 a{
@@ -60,3 +69,15 @@ a{
     background-color: transparent;
 }
 
+#navbar2 {
+    
+    color: white;
+	background-color: #666;
+	height: 90px;
+	border-top: 5px solid #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 12px;
+    margin-top: 75px;
+
+
+}
